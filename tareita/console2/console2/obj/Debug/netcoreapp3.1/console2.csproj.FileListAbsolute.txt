@@ -1,0 +1,12 @@
+/Users/danilocen/Desktop/G5-ED_DanielaL/console2/console2/bin/Debug/netcoreapp3.1/console2.deps.json
+/Users/danilocen/Desktop/G5-ED_DanielaL/console2/console2/bin/Debug/netcoreapp3.1/console2.runtimeconfig.json
+/Users/danilocen/Desktop/G5-ED_DanielaL/console2/console2/bin/Debug/netcoreapp3.1/console2.runtimeconfig.dev.json
+/Users/danilocen/Desktop/G5-ED_DanielaL/console2/console2/bin/Debug/netcoreapp3.1/console2.dll
+/Users/danilocen/Desktop/G5-ED_DanielaL/console2/console2/bin/Debug/netcoreapp3.1/console2.pdb
+/Users/danilocen/Desktop/G5-ED_DanielaL/console2/console2/obj/Debug/netcoreapp3.1/console2.csprojAssemblyReference.cache
+/Users/danilocen/Desktop/G5-ED_DanielaL/console2/console2/obj/Debug/netcoreapp3.1/console2.AssemblyInfoInputs.cache
+/Users/danilocen/Desktop/G5-ED_DanielaL/console2/console2/obj/Debug/netcoreapp3.1/console2.AssemblyInfo.cs
+/Users/danilocen/Desktop/G5-ED_DanielaL/console2/console2/obj/Debug/netcoreapp3.1/console2.csproj.CoreCompileInputs.cache
+/Users/danilocen/Desktop/G5-ED_DanielaL/console2/console2/obj/Debug/netcoreapp3.1/console2.dll
+/Users/danilocen/Desktop/G5-ED_DanielaL/console2/console2/obj/Debug/netcoreapp3.1/console2.pdb
+/Users/danilocen/Desktop/G5-ED_DanielaL/console2/console2/obj/Debug/netcoreapp3.1/console2.genruntimeconfig.cache
